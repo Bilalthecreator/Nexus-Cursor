@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+*.env
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# Firebase
+firebase-adminsdk-*.json
+serviceAccountKey.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
