@@ -20,3 +20,4 @@ We use a feature-branch workflow with `main` and `develop` as protected branches
 ### Deployment:
 - `develop` → staging (optional, we'll set this up later)
 - `main` → production (automatic via CI/CD)
+
