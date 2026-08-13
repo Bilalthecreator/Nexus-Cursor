@@ -133,6 +133,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Vite dev server (frontend)
     "http://localhost:3000",  # Fallback frontend port
+    "https://nexus-cursor.vercel.app/",
 ]
 
 REST_FRAMEWORK = {
